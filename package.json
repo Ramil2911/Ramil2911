@@ -1,0 +1,26 @@
+{
+  "name": "ramil2911",
+  "version": "1.0.0",
+  "description": "My personal website",
+  "main": "index.js",
+  "scripts": {
+    "build": "postcss app.css -o app/app.min.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ramil2911/Ramil2911.git"
+  },
+  "author": "Ramil2911",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ramil2911/Ramil2911/issues"
+  },
+  "homepage": "https://github.com/Ramil2911/Ramil2911#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.2.10",
+    "postcss-cli": "^8.3.1",
+    "tailwindcss": "^2.1.1"
+  }
+}
