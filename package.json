@@ -4,7 +4,7 @@
   "description": "My personal website",
   "main": "index.js",
   "scripts": {
-    "build": "postcss app.css -o app/app.min.css"
+    "build": "postcss app.css -o gh-pages/app.min.css"
   },
   "repository": {
     "type": "git",
